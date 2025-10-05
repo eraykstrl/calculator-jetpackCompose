@@ -16,5 +16,6 @@ All UI elements are built with Compose, no XML layouts are used.
 3. Run on an emulator or a real device
 
 ## Screenshots
-![Main Screen](applicationimages/1.png)
+![Main Screen](1.png)
+![Main Screen](3.png)
 
